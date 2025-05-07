@@ -94,4 +94,4 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-//Ran this within
+//Ran this within virtual machine. Answer to question: The cat program is faster than the replacement program./. 
